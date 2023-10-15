@@ -4,6 +4,8 @@ Vulnerability ID: CVE-2023-29656
 
 Title: Authorization Issue associated with Darktrace Mobile App
 
+Who: Marius Petrea [@rami_marius](https://twitter.com/rami_marius)
+
 Abstract:
 An authorization issue associated with the Darktrace Mobile App has been identified. If running affected Darktrace Threat Visualiser versions, this vulnerability could prevent users disabled during that time from having their Mobile App session automatically ended, allowing them to retain access to the app. Successful exploitation of the vulnerability could lead to unauthorized actions and information disclosure. The vendor, Darktrace, was notified of this issue, which was resolved in a subsequent release.
 
