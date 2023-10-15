@@ -55,4 +55,10 @@ Timeline :
 Note:
 This disclosure paper is intended to raise awareness about the identified vulnerability and encourage the vendor to take appropriate actions to address the issue. It is important to adhere to responsible disclosure practices and work collaboratively with the vendor to ensure timely mitigation.
 
-Please note that this is a sample disclosure paper and should be adapted as per your requirements and the specific guidelines provided by the vulnerability disclosure program or platform you intend to use for public disclosure.
+
+
+
+
+
+
+
